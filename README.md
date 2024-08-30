@@ -11,8 +11,6 @@
 - 📫 How to reach me
       Email: cisco@essentialdowntime.com
 
-- 😄 Pronouns: Cisco the Chris (he/they)
-
 - ⚡ Fun fact: ...
 
 <!---
